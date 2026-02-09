@@ -1,0 +1,1 @@
+I learned how to structure a webpage using semantic HTML elements like header, nav, main, and footer to make content clearer and more accessible. I also practiced Git basics,making commits, creating a feature branch, and merging changes ,which showed me how version control supports organized and collaborative development.
